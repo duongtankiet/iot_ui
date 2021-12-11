@@ -1,0 +1,49 @@
+.backgroud{
+  position: absolute;
+  background: #1b2a49;
+  width: 100vw;
+  height: 100vh;
+  margin: 0;
+  padding: 0;
+
+}
+.bthis{
+  color: white;
+  margin-left: 19%;
+  margin-top: 30px;
+}
+
+.bthis:hover {
+  color: #afe41f;
+  cursor: pointer;
+}
+
+
+.titlehis1{
+  position: absolute;
+  display: flex;
+  left: 20%;
+  color: white;
+}
+
+.titlehis2{
+  position: absolute;
+  display: flex;
+  right: 20%;
+  color: white;
+}
+
+.warning{
+  overflow-x: auto;
+  position: absolute;
+  display: flex;
+  right: 20%;
+  color: white;
+  margin-top: 30px;
+}
+
+.grouphis{
+  display: flex;
+  flexDirection: row;
+  border-bottom: 1px solid white;
+}

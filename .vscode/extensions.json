@@ -1,0 +1,16 @@
+{
+    "recommendations": [
+        "gamunu.vscode-yarn",
+        "steoates.autoimport",
+        "coenraads.bracket-pair-colorizer",
+        "eamodio.gitlens",
+        "ms-toolsai.jupyter-keymap",
+        "ms-toolsai.jupyter-renderers",
+        "ritwickdey.liveserver",
+        "esbenp.prettier-vscode",
+        "xabikos.reactsnippets",
+        "sibiraj-s.vscode-scss-formatter",
+        "ms-vscode.vscode-typescript-tslint-plugin",
+        "visualstudioexptteam.vscodeintellicode"
+    ]
+}
